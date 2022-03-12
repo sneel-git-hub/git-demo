@@ -10,7 +10,15 @@ public class GitHubExampleApplication {
 		SpringApplication.run(GitHubExampleApplication.class, args);
 	}
 
-	public String test() {
+	public String test1() {
+		return "This is test.";
+	}
+	
+	public String test2() {
+		return "This is test.";
+	}
+	
+	public String test3() {
 		return "This is test.";
 	}
 }
