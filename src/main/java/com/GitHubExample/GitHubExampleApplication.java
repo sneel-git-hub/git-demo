@@ -21,4 +21,12 @@ public class GitHubExampleApplication {
 	public String test3() {
 		return "This is test.";
 	}
+	
+	public String test4() {
+		return "This is test.";
+	}
+	
+	public String test5() {
+		return "This is test.";
+	}
 }
